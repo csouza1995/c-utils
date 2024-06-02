@@ -2,8 +2,10 @@ Supervisord for Linux CentOS
 ===
 
 
-### This case are made to run Laravel queues and their jobs, but can be used for other reasons that require supervisord
+> This case are made to run Laravel queues and their jobs, but can be used for other reasons that require supervisord
 
+
+Tutorial
 ___
 
 Before starting, pay attention in your user role and, if necessary, use ``sudo`` as prefix of each command
