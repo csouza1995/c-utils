@@ -6,7 +6,7 @@ Supervisord for Linux CentOS
 
 
 Tutorial
-___
+---
 
 Before starting, pay attention in your user role and, if necessary, use ``sudo`` as prefix of each command
 
